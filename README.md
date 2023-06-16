@@ -1,3 +1,2 @@
 - Java Developer 
-- Estudiante de Licenciatura en Tecnologias de la Informacion
 - Tecnico en Tecnologias de la Informacion
